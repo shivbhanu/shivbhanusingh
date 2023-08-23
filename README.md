@@ -22,4 +22,4 @@ Links :
 
 
 
-This website is based on the template from [HTML5 UP](https://html5up.net/).
+This website is based on a template from [HTML5 UP](https://html5up.net/).

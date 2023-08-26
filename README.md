@@ -1,4 +1,4 @@
-# shivbhanusingh
+# Portfolio Website
 
 Built this website to showcase my portfolio of personal projects, professional experience and a bit about my personal life.
 
